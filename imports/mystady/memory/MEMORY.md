@@ -1,0 +1,7 @@
+- [学习者画像](user_role_learner.md) — 深度学习零基础，准备篇已完成，阶段一进行中，代码填空教学方式
+- [英语水平与术语策略](user_english_level.md) — 未过四级；准备篇双语，阶段一起以代码为主英文不是重点
+- [Notebook 生成规则](feedback_notebook_insert_order.md) — 用 nbformat 脚本生成，不用 NotebookEdit insert（会乱序）
+- [教学质量反馈](feedback_teaching_quality.md) — 用户反馈质量下降，需补全局图+讲动机+表格说明再填空
+- [不用代码画图](feedback_no_code_diagrams.md) — 讲义里的图用 ![](URL) 引用权威资源，不写 matplotlib 代码
+- [代码练习型 Notebook 规则](feedback_code_practice_notebook.md) — 重要教学要集中沉淀到 Notebook/文档，练习先写 shape 再填核心代码
+- [项目进度](project_progress.md) — 当前在阶段一 02_搭建Seq2Seq，GitHub: Sugar-107/LLM-stady
